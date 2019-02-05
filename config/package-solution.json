@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "project-sp-fx-client-side-solution",
+    "id": "03e4850d-ec2a-4f69-9327-0e6a09d7b3a7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/project-sp-fx.sppkg"
+  }
+}
